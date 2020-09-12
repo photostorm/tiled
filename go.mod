@@ -1,4 +1,4 @@
-module github.com/lafriks/go-tiled
+module github.com/photostorm/tiled
 
 go 1.11
 
